@@ -9,6 +9,8 @@
 
 Which applicants are more likely to get a loan?
 
+*Possible Factors:
+
 1. Applicants having a credit history 
 2. Applicants with higher applicant and co-applicant incomes
 3. Applicants with higher education level
