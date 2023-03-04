@@ -59,7 +59,6 @@ Which applicants are more likely to get a loan?
 
 
 ## Future Goals
-(what would you do if you had more time? are there any potential issues/biases with your model/use case?)
 
 - I would create and test at least 4 different models before picking the one that gave the best results.
 - I would sort out the API issue earlier and have it running right away.
