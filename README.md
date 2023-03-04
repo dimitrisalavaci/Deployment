@@ -35,8 +35,8 @@ Which applicants are more likely to get a loan?
 
 - Create hypothesis 
 - Import and load dataset
-- EDA
-- Building a model
+- Perform EDA
+- Build a model
 - Use pipeline on the model 
 - Deploy model onto the cloud and test it
 
