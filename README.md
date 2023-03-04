@@ -6,16 +6,38 @@
 (fill in your description and goals here)
 
 ## Hypothesis
-(fill in your hypothesis about which subset of applicants will be most likely to have their loan approved, and why. Give some examples of how you will test this hypothesis)
+
+Which applicants are more likely to get a loan?
+
+1. Applicants having a credit history 
+2. Applicants with higher applicant and co-applicant incomes
+3. Applicants with higher education level
+4. Properties in urban areas with high growth perspectives
+5. Applicants that apply for a lower loan amount
+6. Applicants that are married
+7. Applicants with 0 dependents
 
 ## EDA 
-(fill in what you discovered in your exploration of the dataset)
+
+- Check to see if there are any missing values in columns
+- Check categorical values & frequency in nominal variables
+- Plot graphs to check data from a visual standpoint
+- Use boxplot to identify outliers(if there are any)
+- Add any missing values 
+- Replace any string values with numerical values
+- Use log transformation to get rid of extreme values
+- Combine columns(ApplicantIncome, CoapplicantIncome)
 
 
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
-### (your step 1)
-### (your step 2)
+
+- Create hypothesis 
+- Import and load dataset
+- EDA
+- Building a model
+- Use pipeline on the model 
+- Deploy model onto the cloud and test it
+
 
 ## Results/Demo
 (fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
