@@ -43,7 +43,6 @@ Which applicants are more likely to get a loan?
 
 
 ## Results/Demo
-(fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
 
 - Created a logistic regression model
 - Accurary of it was 80%
